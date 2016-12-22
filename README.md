@@ -1,2 +1,3 @@
 # hello-world
-the test repository
+# first python script for fun
+print "hello"
